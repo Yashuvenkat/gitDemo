@@ -1,4 +1,3 @@
 Git Demo
 
-demo project on progress
-adding extra line
+demo project on progress..
