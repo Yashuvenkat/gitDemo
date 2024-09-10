@@ -1,3 +1,3 @@
 Git Demo
 
-demo project on progress..
+demo project on progress.
