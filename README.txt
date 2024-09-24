@@ -1,7 +1,10 @@
-Heading -->Git Demo
+Project name -->Git Demo
 
-explanation-->demo project on progress.
+explanation-->demo project to learn git.
 
+diff check 
 Adding my website
 index.html
 
+
+commit file
