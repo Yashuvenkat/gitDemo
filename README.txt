@@ -1,6 +1,6 @@
 Heading -->Git Demo
 
-demo project on progress.
+explanation-->demo project on progress.
 
 Adding my website
 index.html
