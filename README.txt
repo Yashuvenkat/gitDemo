@@ -7,4 +7,4 @@ Adding my website
 index.html
 
 
-commit file
+staging file
